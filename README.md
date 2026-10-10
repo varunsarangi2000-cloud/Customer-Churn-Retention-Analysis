@@ -110,15 +110,6 @@ Dashboard screenshots will be added to this section after they are uploaded to t
 4. Built charts to compare churn patterns across customer segments.
 5. Reviewed the findings and developed potential retention recommendations.
 
-## Project Status
-
-- [x] Dataset exploration
-- [x] SQL-based churn analysis
-- [x] Power BI dashboard creation
-- [ ] Final dashboard validation
-- [ ] SQL scripts and dashboard file upload
-- [ ] Final documentation review
-
 ## Conclusion
 
 This project demonstrates how SQL, Power BI, and DAX can be used to analyze customer churn, identify customer segments with elevated churn rates, and communicate findings through an analytical dashboard.
