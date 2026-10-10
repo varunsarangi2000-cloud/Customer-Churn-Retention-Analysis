@@ -4,6 +4,12 @@
 
 This project analyzes customer churn and retention using SQL, Power BI, and DAX. The objective is to identify patterns in customer behavior, understand factors associated with churn, and develop data-driven recommendations to improve customer retention.
 
+## Dashboard Preview
+
+![Customer Churn and Retention Analysis Dashboard](churn_dashboard.png)
+
+The Power BI dashboard summarizes customer churn and retention KPIs and explores churn patterns across customer demographics, subscription types, tenure, payment methods, usage, and spending.
+
 ## Business Problem
 
 Customer churn can reduce revenue and make long-term growth more difficult. This analysis explores customer demographics, subscription details, tenure, spending, usage patterns, and support interactions to identify customer groups with higher churn rates.
