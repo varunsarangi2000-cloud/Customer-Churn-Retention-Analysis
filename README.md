@@ -29,6 +29,19 @@ Customer churn can reduce revenue and make long-term growth more difficult. This
 - **DAX:** KPI calculations and churn and retention measures.
 - **GitHub:** Project documentation and version control.
 
+## Data Cleaning & Preparation
+
+The customer churn dataset was reviewed and prepared for analysis using SQL and Power BI. The preparation process focused on ensuring that customer information and churn-related fields could be analyzed consistently.
+
+The following checks and preparation activities were considered during the analysis:
+
+- **Data Structure Review:** Reviewed the dataset columns to understand customer demographics, subscription details, billing information, engagement, and churn status.
+- **Data Quality Checks:** Identified the need to check for missing values, duplicate customer records, and inconsistent values.
+- **Column Review:** Reviewed relevant fields, including customer ID, age, gender, subscription type, contract type, monthly charges, total charges, tenure, payment method, and churn status.
+- **Categorical Analysis:** Used customer attributes and relevant categories to compare churn rates across different customer groups.
+- **SQL Analysis:** Used SQL queries to calculate customer counts, churn counts, retained customers, and churn percentages across different dimensions.
+- **Power BI Preparation:** Used the relevant fields and calculated measures to present key performance indicators and customer churn patterns in the dashboard.
+
 ## Dataset Overview
 
 The dataset contains 10,000 customer records and includes fields related to customer demographics, subscription and contract types, payment methods, tenure, charges, usage, satisfaction, support tickets, and churn status.
