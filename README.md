@@ -98,9 +98,21 @@ Customers with 5–6 support tickets had a churn rate of 17.53%.
 
 These recommendations are based on observed patterns and should be validated through further analysis or controlled testing.
 
-## Dashboard Preview
+## Dataset Description
 
-Dashboard screenshots will be added to this section after they are uploaded to the repository.
+The project uses a customer churn dataset containing 10,000 customer records. The dataset includes customer demographics, subscription details, billing information, customer engagement, satisfaction, and churn status.
+
+Key data fields include:
+
+- **Customer Information:** Customer ID, Age, Gender, and City
+- **Subscription Details:** Subscription Type and Contract Type
+- **Billing Information:** Monthly Charges and Total Charges
+- **Customer Engagement:** Tenure, Usage Hours, and Last Login Days
+- **Customer Experience:** Satisfaction Score and Support Tickets
+- **Payment Information:** Payment Method
+- **Target Variable:** Churn status
+
+The dataset is used to analyze customer churn patterns, identify customer segments with higher churn rates, and explore factors associated with customer retention.
 
 ## Analytical Approach
 
