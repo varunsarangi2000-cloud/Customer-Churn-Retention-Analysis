@@ -140,3 +140,32 @@ The dataset is used to analyze customer churn patterns, identify customer segmen
 This project demonstrates how SQL, Power BI, and DAX can be used to analyze customer churn, identify customer segments with elevated churn rates, and communicate findings through an analytical dashboard.
 
 The results provide a foundation for further investigation into customer engagement and retention strategies.
+
+## How to Use the Project
+
+Follow these steps to explore the Customer Churn & Retention Analysis project.
+
+### 1. Access the Project Files
+- Open this GitHub repository and review the available project files.
+- Download the Power BI `.pbix` file to explore the interactive dashboard.
+- Review the SQL scripts to understand how customer churn and retention were analyzed.
+
+### 2. Explore the SQL Analysis
+- Open the SQL scripts in your SQL environment.
+- Review the queries used to analyze churn rates across customer demographics, subscription types, tenure, payment methods, spending categories, and other customer attributes.
+- If you want to execute the queries, ensure the required database and source dataset are available and that the table and column names match the scripts.
+
+### 3. Explore the Power BI Dashboard
+- Open the `.pbix` file using Power BI Desktop.
+- Interact with the dashboard visuals and filters, where available, to investigate churn patterns.
+- Review the key performance indicators, including total customers, churned customers, retained customers, churn rate, and retention rate.
+
+### 4. Review the Findings
+- Read the **Key Insights** section to understand the main findings.
+- Review the **Business Recommendations** section for potential strategies to improve customer retention.
+
+### Requirements
+- **Power BI:** Power BI Desktop to open and explore the dashboard.
+- **SQL:** A compatible SQL environment and the required source data to execute the SQL scripts.
+
+**Note:** If the Power BI report uses a local database connection, you may need to update the connection settings and refresh the data before the report works correctly.
